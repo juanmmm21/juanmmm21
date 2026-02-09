@@ -1,4 +1,4 @@
-# Soy Juan Martos Cuevas
+# Juan Martos Cuevas
 
 > **Desarrollador de Aplicaciones**
 
