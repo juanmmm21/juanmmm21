@@ -10,7 +10,7 @@
 | :--- | :--- | :---: |
 | **[Convall]** | A Cloud-Based File Converter Mobile App Built with Flutter. | [link](https://github.com/juanmmm21/Convall) |
 | **[Tickertape]** | A currency converter for iOS with a stylish retro look. | [link](https://github.com/juanmmm21/Tickertape) |
-| **[Latent]** | Privacy-focused “Local-First” note-taking app that uses local AI (CoreML) to generate embeddings and automatically link notes. Actually in progress...  | - |
+| **[Latent]** | Privacy-focused “Local-First” note-taking app that uses local AI (CoreML) to generate embeddings and automatically link notes. Actually in progress...  | [link](https://github.com/juanmmm21/Latent) |
 
 ---
 
