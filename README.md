@@ -1,12 +1,10 @@
 # Juan Martos Cuevas
 
-> **Desarrollador de Aplicaciones**
-
 ---
 
-### 📱 Mis Proyectos Destacados
+### iOS Apps
 
-| Aplicación | Descripción | Repositorio |
+| App | Description | Repository |
 | :--- | :--- | :---: |
 | **Convall** | A Cloud-Based File Converter Mobile App Built with Flutter. | [link](https://github.com/juanmmm21/Convall) |
 | **Tickertape** | A currency converter for iOS with a stylish retro look. | [link](https://github.com/juanmmm21/Tickertape) |
@@ -15,4 +13,11 @@
 
 ---
 
-[📧 Contactar](mailto:martoscuevasjuan@gmail.com) • [🔗 LinkedIn](https://www.linkedin.com/in/juan-martos-cuevas-071019354/?originalSubdomain=es)
+### AI
+
+| Project | Descripcion | Repository |
+| :--- | :--- | :---: |
+| **bpe-tokenizer-from-scratch** | A lightweight Byte Pair Encoding (BPE) tokenizer built completely from scratch for LLM data pipelines. | [link](https://github.com/juanmmm21/bpe-tokenizer-from-scratch) |
+
+
+[📧 Contact](mailto:martoscuevasjuan@gmail.com) • [🔗 LinkedIn](https://www.linkedin.com/in/juan-martos-cuevas-071019354/?originalSubdomain=es)
