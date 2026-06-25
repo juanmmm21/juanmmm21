@@ -16,7 +16,7 @@
 ## AI
 ### Data Processing and Input
 
-| Project | Descripcion | Repository |
+| Project | Description | Repository |
 | :--- | :--- | :---: |
 | **bpe-tokenizer-from-scratch** | A lightweight Byte Pair Encoding (BPE) tokenizer built completely from scratch for LLM data pipelines. | [link](https://github.com/juanmmm21/bpe-tokenizer-from-scratch) |
 | **semantic-chunking-engine** | An embedding-based document chunker that dynamically segments text based on semantic transitions for RAG. | [link](https://github.com/juanmmm21/semantic-chunking-engine) |
@@ -25,8 +25,8 @@
 
 ### Representation, Storage, and Retrieval
 
-| Project | Descripcion | Repository |
+| Project | Description | Repository |
 | :--- | :--- | :---: |
-| **contrastive-embedding-trainer** | - | [link](https://github.com/juanmmm21/contrastive-embedding-trainer) |
+| **contrastive-embedding-trainer** | Contrastive training of text embeddings using PyTorch and Siamese networks with Triplet Cosine Loss. | [link](https://github.com/juanmmm21/contrastive-embedding-trainer) |
 
 [📧 Contact](mailto:martoscuevasjuan@gmail.com) • [🔗 LinkedIn](https://www.linkedin.com/in/juan-martos-cuevas-071019354/?originalSubdomain=es)
