@@ -2,7 +2,7 @@
 
 ---
 
-### iOS Apps
+## iOS Apps
 
 | App | Description | Repository |
 | :--- | :--- | :---: |
@@ -23,5 +23,10 @@
 | **multimodal-doc-parser** | A document parsing pipeline that extracts structured Markdown, tables, and visual elements from PDFs and images using PyMuPDF and VLMs. | [link](https://github.com/juanmmm21/multimodal-doc-parser) |
 | **llm-annotation-studio** | A web-based data annotation studio for text classification, RLHF/DPO alignment and interactive NER tagging with local token statistics.| [link](https://github.com/juanmmm21/llm-annotation-studio) |
 
+### Representation, Storage, and Retrieval
+
+| Project | Descripcion | Repository |
+| :--- | :--- | :---: |
+| **contrastive-embedding-trainer** | - | [link](https://github.com/juanmmm21/contrastive-embedding-trainer) |
 
 [📧 Contact](mailto:martoscuevasjuan@gmail.com) • [🔗 LinkedIn](https://www.linkedin.com/in/juan-martos-cuevas-071019354/?originalSubdomain=es)
