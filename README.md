@@ -59,6 +59,13 @@
 | **llm-eval-harness** | An automated evaluation suite to benchmark LLM generation quality and detect regressions. | [link](https://github.com/juanmmm21/llm-eval-harness) |
 | **llm-observability-tracer** | End-to-end monitoring and telemetrical tracing for LLM API calls, token counts, and request latency. | [link](https://github.com/juanmmm21/llm-observability-tracer) |
 
+### Final App
+
+| Project | Description | Repository |
+| :--- | :--- | :---: |
+| **nexus-second-brain** | A privacy-first personal knowledge management SPA integrating semantic search, document parsers, and chat. | [link](https://github.com/juanmmm21/nexus-second-brain) |
+
+
 
 
 [📧 Contact](mailto:martoscuevasjuan@gmail.com) • [🔗 LinkedIn](https://www.linkedin.com/in/juan-martos-cuevas-071019354/?originalSubdomain=es)
