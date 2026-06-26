@@ -28,5 +28,6 @@
 | Project | Description | Repository |
 | :--- | :--- | :---: |
 | **contrastive-embedding-trainer** | Contrastive training of text embeddings using PyTorch and Siamese networks with Triplet Cosine Loss. | [link](https://github.com/juanmmm21/contrastive-embedding-trainer) |
+| **nano-vector-db** | A lightweight vector database built from scratch implementing HNSW indexing and cosine similarity search. | [link](https://github.com/juanmmm21/nano-vector-db) |
 
 [📧 Contact](mailto:martoscuevasjuan@gmail.com) • [🔗 LinkedIn](https://www.linkedin.com/in/juan-martos-cuevas-071019354/?originalSubdomain=es)
