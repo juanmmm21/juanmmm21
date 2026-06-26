@@ -13,7 +13,7 @@
 
 ---
 
-## AI
+## AI Core Infrastructure
 ### Data Processing and Input
 
 | Project | Description | Repository |
