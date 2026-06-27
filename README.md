@@ -64,6 +64,7 @@
 | Project | Description | Repository |
 | :--- | :--- | :---: |
 | **nexus-second-brain** | A privacy-first personal knowledge management SPA integrating semantic search, document parsers, and chat. | [link](https://github.com/juanmmm21/nexus-second-brain) |
+| **ai-core-infra-hub** | A centralized, interactive web control panel and showcase hub integrating and orchestrating all 21 AI Core Infrastructure subprojects. | [link](https://github.com/juanmmm21/ai-core-infra-hub) |
 
 
 
