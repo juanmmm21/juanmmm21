@@ -67,6 +67,72 @@
 | **ai-core-infra-hub** | A centralized, interactive web control panel and showcase hub integrating and orchestrating all 21 AI Core Infrastructure subprojects. | [link](https://github.com/juanmmm21/ai-core-infra-hub) |
 
 
+---
+
+
+## Quantitative Trading Core Infrastructure
+
+### Data Pipelines
+
+| Project | Description | Repository |
+| :--- | :--- | :---: |
+| **websocket-feed-handler** | High-speed async WebSocket client with auto-reconnect for live crypto exchange trade feeds. | [link](https://github.com/juanmmm21/websocket-feed-handler) |
+| **order-book-reconstructor** | In-memory real-time L2/L3 order book reconstructor optimized for low-latency bid/ask maintenance. | [link](https://github.com/juanmmm21/order-book-reconstructor) |
+| **market-data-lakehouse** | Streaming pipeline that aggregates ticks into OHLCV candles and stores them in Parquet and DuckDB. | [link](https://github.com/juanmmm21/market-data-lakehouse) |
+
+### The Analytics Core
+
+| Project | Description | Repository |
+| :--- | :--- | :---: |
+| **ta-indicators-from-scratch** | NumPy-vectorized technical indicators implemented from scratch without third-party TA libraries. | [link](https://github.com/juanmmm21/ta-indicators-from-scratch) |
+| **alpha-signal-generator** | Pluggable strategy engine that emits strict entry and exit signals from market data. | [link](https://github.com/juanmmm21/alpha-signal-generator) |
+
+### Backtesting & Execution
+
+| Project | Description | Repository |
+| :--- | :--- | :---: |
+| **event-driven-backtester** | Event-driven historical simulator that replays ticks and fills second by second. | [link](https://github.com/juanmmm21/event-driven-backtester) |
+| **market-condition-simulator** | Backtest middleware injecting realistic network latency and order book slippage. | [link](https://github.com/juanmmm21/market-condition-simulator) |
+| **order-routing-gateway** | Exchange-agnostic gateway that routes internal orders to live APIs or paper trading. | [link](https://github.com/juanmmm21/order-routing-gateway) |
+
+### Risk & MLOps
+
+| Project | Description | Repository |
+| :--- | :--- | :---: |
+| **risk-management-engine** | Pre-trade risk gate enforcing position sizing, stop-loss, and max drawdown limits. | [link](https://github.com/juanmmm21/risk-management-engine) |
+| **quant-metrics-calculator** | Performance analytics toolkit computing Sharpe, Sortino, profit factor, and equity curves. | [link](https://github.com/juanmmm21/quant-metrics-calculator) |
+| **trade-audit-logger** | Millisecond-precision audit trail for trades, orders, decisions, and system errors. | [link](https://github.com/juanmmm21/trade-audit-logger) |
+
+### Control Interface
+
+| Project | Description | Repository |
+| :--- | :--- | :---: |
+| **quant-terminal-web** | Web dashboard for monitoring bots, viewing live performance, and triggering panic stops. | [link](https://github.com/juanmmm21/quant-terminal-web) |
+| **quant-terminal-ios** | Native SwiftUI iOS terminal for real-time bot control, alerts, and emergency stops. | [link](https://github.com/juanmmm21/alpha-signal-generator) |
 
 
 [📧 Contact](mailto:martoscuevasjuan@gmail.com) • [🔗 LinkedIn](https://www.linkedin.com/in/juan-martos-cuevas-071019354/?originalSubdomain=es)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
