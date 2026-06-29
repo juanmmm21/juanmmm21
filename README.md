@@ -1,74 +1,74 @@
 # Juan Martos Cuevas
 
+
 ---
 
 ## iOS Apps
 
 | App | Description | Repository |
 | :--- | :--- | :---: |
-| **Convall** | A Cloud-Based File Converter Mobile App Built with Flutter. | [link](https://github.com/juanmmm21/Convall) |
-| **Tickertape** | A currency converter for iOS with a stylish retro look. | [link](https://github.com/juanmmm21/Tickertape) |
-| **Latent** | Privacy-focused “Local-First” note-taking app that uses local AI (CoreML) to generate embeddings and automatically link notes. Actually in progress...  | [link](https://github.com/juanmmm21/Latent) |
-| **Bellows** | A minimalist vintage camera app activated by pulling down your iPhone's Dynamic Island. Actually in progress...  | [link](https://github.com/juanmmm21/Bellows) |
+| **Convall** | Cloud-based file converter built with Flutter. | [Repo](https://github.com/juanmmm21/Convall) |
+| **Tickertape** | Currency converter for iOS with a retro-inspired UI. | [Repo](https://github.com/juanmmm21/Tickertape) |
+| **Latent** | Privacy-focused, local-first note-taking app using on-device AI (CoreML) for embeddings and automatic note linking. *In progress.* | [Repo](https://github.com/juanmmm21/Latent) |
+| **Bellows** | Minimalist vintage camera app triggered via Dynamic Island. *In progress.* | [Repo](https://github.com/juanmmm21/Bellows) |
 
 ---
 
 ## AI Core Infrastructure
+
 ### Data Processing and Input
 
 | Project | Description | Repository |
 | :--- | :--- | :---: |
-| **bpe-tokenizer-from-scratch** | A lightweight Byte Pair Encoding (BPE) tokenizer built completely from scratch for LLM data pipelines. | [link](https://github.com/juanmmm21/bpe-tokenizer-from-scratch) |
-| **semantic-chunking-engine** | An embedding-based document chunker that dynamically segments text based on semantic transitions for RAG. | [link](https://github.com/juanmmm21/semantic-chunking-engine) |
-| **multimodal-doc-parser** | A document parsing pipeline that extracts structured Markdown, tables, and visual elements from PDFs and images using PyMuPDF and VLMs. | [link](https://github.com/juanmmm21/multimodal-doc-parser) |
-| **llm-annotation-studio** | A web-based data annotation studio for text classification, RLHF/DPO alignment and interactive NER tagging with local token statistics.| [link](https://github.com/juanmmm21/llm-annotation-studio) |
+| **bpe-tokenizer-from-scratch** | Byte Pair Encoding (BPE) tokenizer built from scratch for LLM data pipelines. | [Repo](https://github.com/juanmmm21/bpe-tokenizer-from-scratch) |
+| **semantic-chunking-engine** | Embedding-based document chunker that segments text at semantic boundaries for RAG. | [Repo](https://github.com/juanmmm21/semantic-chunking-engine) |
+| **multimodal-doc-parser** | Document parsing pipeline for structured Markdown, tables, and visuals from PDFs and images (PyMuPDF, VLMs). | [Repo](https://github.com/juanmmm21/multimodal-doc-parser) |
+| **llm-annotation-studio** | Web-based annotation studio for text classification, RLHF/DPO alignment, and NER tagging. | [Repo](https://github.com/juanmmm21/llm-annotation-studio) |
 
 ### Representation, Storage, and Retrieval
 
 | Project | Description | Repository |
 | :--- | :--- | :---: |
-| **contrastive-embedding-trainer** | Contrastive training of text embeddings using PyTorch and Siamese networks with Triplet Cosine Loss. | [link](https://github.com/juanmmm21/contrastive-embedding-trainer) |
-| **nano-vector-db** | A lightweight vector database built from scratch implementing HNSW indexing and cosine similarity search. | [link](https://github.com/juanmmm21/nano-vector-db) |
-| **knowledge-graph-extractor** | An extraction pipeline to build structured knowledge graphs from unstructured text using LLMs. | [link](https://github.com/juanmmm21/knowledge-graph-extractor) |
-| **hybrid-search-retrieval-pipeline** | A hybrid retrieval engine combining dense vector search and sparse BM25 keyword matching. | [link](https://github.com/juanmmm21/hybrid-search-retrieval-pipeline) |
-| **cross-encoder-reranker** | A high-precision Cross-Encoder model pipeline to re-rank and filter retrieved documents for RAG. | [link](https://github.com/juanmmm21/cross-encoder-reranker) |
+| **contrastive-embedding-trainer** | Contrastive training of text embeddings with PyTorch and Siamese networks (Triplet Cosine Loss). | [Repo](https://github.com/juanmmm21/contrastive-embedding-trainer) |
+| **nano-vector-db** | Lightweight vector database with HNSW indexing and cosine similarity search. | [Repo](https://github.com/juanmmm21/nano-vector-db) |
+| **knowledge-graph-extractor** | Pipeline to build structured knowledge graphs from unstructured text using LLMs. | [Repo](https://github.com/juanmmm21/knowledge-graph-extractor) |
+| **hybrid-search-retrieval-pipeline** | Hybrid retrieval combining dense vector search and sparse BM25 keyword matching. | [Repo](https://github.com/juanmmm21/hybrid-search-retrieval-pipeline) |
+| **cross-encoder-reranker** | Cross-encoder pipeline to re-rank retrieved documents for RAG. | [Repo](https://github.com/juanmmm21/cross-encoder-reranker) |
 
-### Inference, Life Cycle, and Control
+### Inference, Lifecycle, and Control
 
 | Project | Description | Repository |
 | :--- | :--- | :---: |
-| **llm-inference-server** | A high-performance LLM inference server with token streaming and dynamic request batching. | [link](https://github.com/juanmmm21/llm-inference-server) |
-| **semantic-model-router** | A semantic router that dynamically assigns user prompts to optimal LLM models to reduce latency and API cost. | [link](https://github.com/juanmmm21/semantic-model-router) |
-| **llm-guardrails-shield** | A bidirectional security firewall protecting LLMs against prompt injection and data leaks. | [link](https://github.com/juanmmm21/llm-guardrails-shield) |
+| **llm-inference-server** | LLM inference server with token streaming and dynamic request batching. | [Repo](https://github.com/juanmmm21/llm-inference-server) |
+| **semantic-model-router** | Semantic router that assigns prompts to the optimal LLM to reduce latency and cost. | [Repo](https://github.com/juanmmm21/semantic-model-router) |
+| **llm-guardrails-shield** | Bidirectional security layer against prompt injection and data leaks. | [Repo](https://github.com/juanmmm21/llm-guardrails-shield) |
 
 ### Agents and Autonomy
 
 | Project | Description | Repository |
 | :--- | :--- | :---: |
-| **orchestra-agents** | A framework for multi-agent collaboration using autonomous ReAct reasoning loops. | [link](https://github.com/juanmmm21/orchestra-agents) |
-| **agentic-memory-layer** | A structured memory layer providing short-term and long-term vector database memory for AI agents. | [link](https://github.com/juanmmm21/agentic-memory-layer) |
-| **secure-tool-runtime** | A secure, sandboxed execution runtime allowing LLMs to run code and APIs safely. | [link](https://github.com/juanmmm21/secure-tool-runtime) |
+| **orchestra-agents** | Multi-agent framework with autonomous ReAct reasoning loops. | [Repo](https://github.com/juanmmm21/orchestra-agents) |
+| **agentic-memory-layer** | Structured memory layer with short- and long-term vector storage for AI agents. | [Repo](https://github.com/juanmmm21/agentic-memory-layer) |
+| **secure-tool-runtime** | Sandboxed execution runtime for safe LLM code and API execution. | [Repo](https://github.com/juanmmm21/secure-tool-runtime) |
 
 ### MLOps, Synthetic Data, and Quality
 
 | Project | Description | Repository |
 | :--- | :--- | :---: |
-| **synthetic-data-generator** | An automated engine to generate and filter high-quality synthetic instruction datasets using LLMs. | [link](https://github.com/juanmmm21/synthetic-data-generator) |
-| **dataset-version-control** | A version control utility for machine learning datasets to guarantee reproducible training runs. | [link](https://github.com/juanmmm21/dataset-version-control) |
-| **llm-qlora-finetuner** | An efficient LLM fine-tuning pipeline using QLoRA and PEFT on custom datasets with PyTorch. | [link](https://github.com/juanmmm21/llm-qlora-finetuner) |
-| **llm-eval-harness** | An automated evaluation suite to benchmark LLM generation quality and detect regressions. | [link](https://github.com/juanmmm21/llm-eval-harness) |
-| **llm-observability-tracer** | End-to-end monitoring and telemetrical tracing for LLM API calls, token counts, and request latency. | [link](https://github.com/juanmmm21/llm-observability-tracer) |
+| **synthetic-data-generator** | Engine to generate and filter synthetic instruction datasets using LLMs. | [Repo](https://github.com/juanmmm21/synthetic-data-generator) |
+| **dataset-version-control** | Version control for ML datasets to ensure reproducible training runs. | [Repo](https://github.com/juanmmm21/dataset-version-control) |
+| **llm-qlora-finetuner** | QLoRA/PEFT fine-tuning pipeline for custom datasets with PyTorch. | [Repo](https://github.com/juanmmm21/llm-qlora-finetuner) |
+| **llm-eval-harness** | Automated evaluation suite to benchmark LLM output quality and detect regressions. | [Repo](https://github.com/juanmmm21/llm-eval-harness) |
+| **llm-observability-tracer** | End-to-end tracing for LLM API calls, token usage, and latency. | [Repo](https://github.com/juanmmm21/llm-observability-tracer) |
 
-### Final App
+### Applications
 
 | Project | Description | Repository |
 | :--- | :--- | :---: |
-| **nexus-second-brain** | A privacy-first personal knowledge management SPA integrating semantic search, document parsers, and chat. | [link](https://github.com/juanmmm21/nexus-second-brain) |
-| **ai-core-infra-hub** | A centralized, interactive web control panel and showcase hub integrating and orchestrating all 21 AI Core Infrastructure subprojects. | [link](https://github.com/juanmmm21/ai-core-infra-hub) |
-
+| **nexus-second-brain** | Privacy-first personal knowledge management app with semantic search, document parsing, and chat. | [Repo](https://github.com/juanmmm21/nexus-second-brain) |
+| **ai-core-infra-hub** | Web control panel that integrates and orchestrates the AI Core Infrastructure projects. | [Repo](https://github.com/juanmmm21/ai-core-infra-hub) |
 
 ---
-
 
 ## Quantitative Trading Core Infrastructure
 
@@ -76,63 +76,40 @@
 
 | Project | Description | Repository |
 | :--- | :--- | :---: |
-| **websocket-feed-handler** | High-speed async WebSocket client with auto-reconnect for live crypto exchange trade feeds. | [link](https://github.com/juanmmm21/websocket-feed-handler) |
-| **order-book-reconstructor** | In-memory real-time L2/L3 order book reconstructor optimized for low-latency bid/ask maintenance. | [link](https://github.com/juanmmm21/order-book-reconstructor) |
-| **market-data-lakehouse** | Streaming pipeline that aggregates ticks into OHLCV candles and stores them in Parquet and DuckDB. | [link](https://github.com/juanmmm21/market-data-lakehouse) |
+| **websocket-feed-handler** | Async WebSocket client with auto-reconnect for live crypto exchange feeds. | [Repo](https://github.com/juanmmm21/websocket-feed-handler) |
+| **order-book-reconstructor** | In-memory L2/L3 order book reconstructor for low-latency bid/ask maintenance. | [Repo](https://github.com/juanmmm21/order-book-reconstructor) |
+| **market-data-lakehouse** | Streaming pipeline that aggregates ticks into OHLCV candles and stores them in Parquet and DuckDB. | [Repo](https://github.com/juanmmm21/market-data-lakehouse) |
 
-### The Analytics Core
-
-| Project | Description | Repository |
-| :--- | :--- | :---: |
-| **ta-indicators-from-scratch** | NumPy-vectorized technical indicators implemented from scratch without third-party TA libraries. | [link](https://github.com/juanmmm21/ta-indicators-from-scratch) |
-| **alpha-signal-generator** | Pluggable strategy engine that emits strict entry and exit signals from market data. | [link](https://github.com/juanmmm21/alpha-signal-generator) |
-
-### Backtesting & Execution
+### Analytics
 
 | Project | Description | Repository |
 | :--- | :--- | :---: |
-| **event-driven-backtester** | Event-driven historical simulator that replays ticks and fills second by second. | [link](https://github.com/juanmmm21/event-driven-backtester) |
-| **market-condition-simulator** | Backtest middleware injecting realistic network latency and order book slippage. | [link](https://github.com/juanmmm21/market-condition-simulator) |
-| **order-routing-gateway** | Exchange-agnostic gateway that routes internal orders to live APIs or paper trading. | [link](https://github.com/juanmmm21/order-routing-gateway) |
+| **ta-indicators-from-scratch** | NumPy-vectorized technical indicators implemented without third-party TA libraries. | [Repo](https://github.com/juanmmm21/ta-indicators-from-scratch) |
+| **alpha-signal-generator** | Pluggable strategy engine that emits entry and exit signals from market data. | [Repo](https://github.com/juanmmm21/alpha-signal-generator) |
 
-### Risk & MLOps
+### Backtesting and Execution
 
 | Project | Description | Repository |
 | :--- | :--- | :---: |
-| **risk-management-engine** | Pre-trade risk gate enforcing position sizing, stop-loss, and max drawdown limits. | [link](https://github.com/juanmmm21/risk-management-engine) |
-| **quant-metrics-calculator** | Performance analytics toolkit computing Sharpe, Sortino, profit factor, and equity curves. | [link](https://github.com/juanmmm21/quant-metrics-calculator) |
-| **trade-audit-logger** | Millisecond-precision audit trail for trades, orders, decisions, and system errors. | [link](https://github.com/juanmmm21/trade-audit-logger) |
+| **event-driven-backtester** | Event-driven simulator that replays historical ticks and fills second by second. | [Repo](https://github.com/juanmmm21/event-driven-backtester) |
+| **market-condition-simulator** | Backtest middleware that injects network latency and order book slippage. | [Repo](https://github.com/juanmmm21/market-condition-simulator) |
+| **order-routing-gateway** | Exchange-agnostic gateway that routes orders to live APIs or paper trading. | [Repo](https://github.com/juanmmm21/order-routing-gateway) |
+
+### Risk and MLOps
+
+| Project | Description | Repository |
+| :--- | :--- | :---: |
+| **risk-management-engine** | Pre-trade risk gate enforcing position sizing, stop-loss, and max drawdown limits. | [Repo](https://github.com/juanmmm21/risk-management-engine) |
+| **quant-metrics-calculator** | Performance analytics toolkit computing Sharpe, Sortino, profit factor, and equity curves. | [Repo](https://github.com/juanmmm21/quant-metrics-calculator) |
+| **trade-audit-logger** | Millisecond-precision audit trail for trades, orders, decisions, and system errors. | [Repo](https://github.com/juanmmm21/trade-audit-logger) |
 
 ### Control Interface
 
 | Project | Description | Repository |
 | :--- | :--- | :---: |
-| **quant-terminal-web** | Web dashboard for monitoring bots, viewing live performance, and triggering panic stops. | [link](https://github.com/juanmmm21/quant-terminal-web) |
-| **quant-terminal-ios** | Native SwiftUI iOS terminal for real-time bot control, alerts, and emergency stops. | [link](https://github.com/juanmmm21/alpha-signal-generator) |
+| **quant-terminal-web** | Web dashboard for monitoring bots, viewing live performance, and triggering emergency stops. | [Repo](https://github.com/juanmmm21/quant-terminal-web) |
+| **quant-terminal-ios** | Native SwiftUI iOS terminal for real-time bot control, alerts, and emergency stops. | [Repo](https://github.com/juanmmm21/quant-terminal-ios) |
 
+---
 
-[📧 Contact](mailto:martoscuevasjuan@gmail.com) • [🔗 LinkedIn](https://www.linkedin.com/in/juan-martos-cuevas-071019354/?originalSubdomain=es)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[Email](mailto:martoscuevasjuan@gmail.com) · [LinkedIn](https://www.linkedin.com/in/juan-martos-cuevas-071019354/)
