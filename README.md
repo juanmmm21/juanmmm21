@@ -9,7 +9,7 @@
 | :--- | :--- | :---: |
 | **Convall** | Cloud-based file converter built with Flutter. | [Repo](https://github.com/juanmmm21/Convall) |
 | **Tickertape** | Currency converter for iOS with a retro-inspired UI. | [Repo](https://github.com/juanmmm21/Tickertape) |
-| **Latent** | Privacy-focused, local-first note-taking app using on-device AI (CoreML) for embeddings and automatic note linking. *In progress.* | [Repo](https://github.com/juanmmm21/Latent) |
+| **Latent** | Privacy-focused, local-first note-taking app using on-device AI (CoreML) for embeddings and automatic note linking. | [Repo](https://github.com/juanmmm21/Latent) |
 | **Bellows** | Minimalist vintage camera app triggered via Dynamic Island. *In progress.* | [Repo](https://github.com/juanmmm21/Bellows) |
 
 ---
