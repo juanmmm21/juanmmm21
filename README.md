@@ -111,4 +111,10 @@
 
 ---
 
+## AI Projects
+
+| Project | Description | Repository |
+| :--- | :--- | :---: |
+| **local-llm-studio** | A native macOS studio for local LLMs with private file context and web search integration. | [Repo](https://github.com/juanmmm21/local-llm-studio) |
+
 [Email](mailto:martoscuevasjuan@gmail.com) · [LinkedIn](https://www.linkedin.com/in/juan-martos-cuevas-071019354/)
