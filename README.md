@@ -116,5 +116,6 @@
 | Project | Description | Repository |
 | :--- | :--- | :---: |
 | **local-llm-studio** | A native macOS studio for local LLMs with private file context and web search integration. | [Repo](https://github.com/juanmmm21/local-llm-studio) |
+| **the-autonomous-enclave** | A local multi-agent simulation where LLM-driven digital citizens perceive, reason, and trade in a synthetic economy under computational scarcity, observed and steered in real time via a pixel-art web dashboard. | [Repo](https://github.com/juanmmm21/the-autonomous-enclave)
 
 [Email](mailto:martoscuevasjuan@gmail.com) · [LinkedIn](https://www.linkedin.com/in/juan-martos-cuevas-071019354/)
