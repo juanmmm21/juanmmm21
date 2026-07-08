@@ -118,4 +118,83 @@
 | **local-llm-studio** | A native macOS studio for local LLMs with private file context and web search integration. | [Repo](https://github.com/juanmmm21/local-llm-studio) |
 | **the-autonomous-enclave** | A local multi-agent simulation where LLM-driven digital citizens perceive, reason, and trade in a synthetic economy under computational scarcity, observed and steered in real time via a pixel-art web dashboard. | [Repo](https://github.com/juanmmm21/the-autonomous-enclave)
 
+---
+
+## Beacon Search Engine
+
+### Ingestion
+
+| Project | Description | Repository |
+| :--- | :--- | :---: |
+| **web-crawler-scheduler** | An async, polite web crawler with priority frontier, robots.txt compliance, and outbound link graph extraction. | [Repo](https://github.com/juanmmm21/web-crawler-scheduler) |
+| **html-content-extractor** | A boilerplate-removal pipeline that extracts clean main content, titles, and metadata from raw crawled HTML. | [Repo](https://github.com/juanmmm21/html-content-extractor) |
+
+### Indexing
+
+| Project | Description | Repository |
+| :--- | :--- | :---: |
+| **inverted-index-builder** | An inverted index builder implementing tokenization, positional postings, and document frequency from scratch. | [Repo](https://github.com/juanmmm21/inverted-index-builder) |
+| **index-compression-codec** | A postings-list compression codec implementing delta encoding, varint, and bitpacking for scalable inverted indexes. | [Repo](https://github.com/juanmmm21/index-compression-codec) |
+
+### Ranking and Relevance
+
+| Project | Description | Repository |
+| :--- | :--- | :---: |
+| **bm25-ranking-engine** | A from-scratch implementation of the BM25 ranking algorithm for lexical relevance scoring over an inverted index. | [Repo](https://github.com/juanmmm21/bm25-ranking-engine) |
+| **pagerank-link-analysis** | An iterative PageRank implementation computing page authority from a crawled link graph using sparse matrix operations. | [Repo](https://github.com/juanmmm21/pagerank-link-analysis) |
+| **learning-to-rank-reranker** | A learning-to-rank reranker combining BM25, PageRank, and auxiliary features via gradient-boosted trees. | [Repo](https://github.com/juanmmm21/learning-to-rank-reranker) |
+
+### Query Serving
+
+| Project | Description | Repository |
+| :--- | :--- | :---: |
+| **query-parser-autocomplete** | A query parser with operator support, spellcheck, and prefix/n-gram based autocomplete suggestions. | [Repo](https://github.com/juanmmm21/query-parser-autocomplete) |
+| **distributed-index-sharding** | A sharded inverted index with distributed query fan-out and ranked result merging across nodes. | [Repo](https://github.com/juanmmm21/distributed-index-sharding) |
+
+### Flagship Application
+
+| Project | Description | Repository |
+| :--- | :--- | :---: |
+| **beacon-search-console** | A full search engine console (FastAPI + React) assembling crawling, indexing, ranking, and reranking into a working product over a real corpus. | [Repo](https://github.com/juanmmm21/beacon-search-console) |
+
+---
+
+## Strata Database Engine
+
+### Storage and Persistence
+
+| Project | Description | Repository |
+| :--- | :--- | :---: |
+| **bplus-tree-storage-engine** | Disk-backed B+Tree storage engine with buffer pool management and page-level indexing, built from scratch. | [Repo](https://github.com/juanmmm21/bplus-tree-storage-engine) |
+| **lsm-tree-engine** | Log-Structured Merge Tree storage engine with memtable flushing, immutable SSTables, and background compaction. | [Repo](https://github.com/juanmmm21/lsm-tree-engine) |
+| **write-ahead-log-recovery** | Binary write-ahead log with checkpointing and redo/undo crash recovery for pluggable storage engines. | [Repo](https://github.com/juanmmm21/write-ahead-log-recovery) |
+
+### Transactions and Concurrency
+
+| Project | Description | Repository |
+| :--- | :--- | :---: |
+| **mvcc-transaction-manager** | From-scratch MVCC transaction manager implementing snapshot isolation and the standard SQL isolation levels. | [Repo](https://github.com/juanmmm21/mvcc-transaction-manager) |
+| **lock-manager-deadlock-detector** | Fine-grained two-phase locking manager with wait-for graph cycle detection for deadlock resolution. | [Repo](https://github.com/juanmmm21/lock-manager-deadlock-detector) |
+
+### Query Engine
+
+| Project | Description | Repository |
+| :--- | :--- | :---: |
+| **sql-query-parser** | Hand-written SQL lexer and parser producing a typed AST for a documented SQL subset. | [Repo](https://github.com/juanmmm21/sql-query-parser) |
+| **cost-based-query-optimizer** | Cost-based query optimizer turning a SQL AST into an efficient physical execution plan with join reordering. | [Repo](https://github.com/juanmmm21/cost-based-query-optimizer) |
+| **vectorized-execution-engine** | Vectorized, batch-oriented query execution engine with NumPy-accelerated relational operators. | [Repo](https://github.com/juanmmm21/vectorized-execution-engine) |
+
+### Distribution and High Availability
+
+| Project | Description | Repository |
+| :--- | :--- | :---: |
+| **raft-replication-log** | From-scratch Raft consensus implementation for leader election and replicated log commitment. | [Repo](https://github.com/juanmmm21/raft-replication-log) |
+| **distributed-query-router** | Sharding and query routing layer that fans out queries across replicated nodes and merges partial results. | [Repo](https://github.com/juanmmm21/distributed-query-router) |
+
+### Flagship Application
+
+| Project | Description | Repository |
+| :--- | :--- | :---: |
+| **nanosql** | Embeddable SQL engine with CLI/REPL and a Python driver, assembling from-scratch storage, transaction, query, and consensus engines. | [Repo](https://github.com/juanmmm21/nanosql) |
+
 [Email](mailto:martoscuevasjuan@gmail.com) · [LinkedIn](https://www.linkedin.com/in/juan-martos-cuevas-071019354/)
