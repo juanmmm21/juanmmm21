@@ -14,6 +14,14 @@
 
 ---
 
+## macOS Apps
+
+| App | Description | Repository |
+| :--- | :--- | :---: |
+| **claude-menubar-telemetry** | A native macOS menu bar app showing real Claude Pro/Max quota usage, read via Claude Code's own session, with a local log-based fallback. | [Repo](https://github.com/juanmmm21/claude-menubar-telemetry) |
+
+---
+
 ## AI Core Infrastructure
 
 ### Data Processing and Input
