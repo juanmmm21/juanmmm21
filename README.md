@@ -164,6 +164,7 @@
 | Project | Description | Repository |
 | :--- | :--- | :---: |
 | **beacon-search-console** | A full search engine console (FastAPI + React) assembling crawling, indexing, ranking, and reranking into a working product over a real corpus. | [Repo](https://github.com/juanmmm21/beacon-search-console) |
+| **beacon-search-engine-at-scale** | Distributed-systems substrate (object storage, message queue, service registry) that scales beacon-search-engine to a few million pages on real infrastructure. | [Repo](https://github.com/juanmmm21/beacon-search-engine-at-scale) |
 
 ---
 
