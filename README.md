@@ -12,7 +12,7 @@
 | **Latent** | Privacy-focused, local-first note-taking app using on-device AI (CoreML) for embeddings and automatic note linking. | [Repo](https://github.com/juanmmm21/Latent) |
 | **Wond** | White noise iOS App. | [Repo](https://github.com/juanmmm21/Wond) |
 | **TunnelVision** | On-device iOS network traffic analyzer and local firewall built on NetworkExtension. | [Repo](https://github.com/juanmmm21/TunnelVision) |
-| **PlantPulse** | DIY plant monitoring: ESP32 nodes publishing soil moisture and ambient readings to a serverless Supabase backend. | [Repo](https://github.com/juanmmm21/PlantPulse) |
+| **PlantPulse** | DIY plant monitoring: ESP32 nodes publishing soil moisture and ambient readings to a serverless Supabase backend. In progress... | [Repo](https://github.com/juanmmm21/PlantPulse) |
 
 ---
 
