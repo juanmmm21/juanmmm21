@@ -12,7 +12,6 @@
 | **Latent** | Privacy-focused, local-first note-taking app using on-device AI (CoreML) for embeddings and automatic note linking. | [Repo](https://github.com/juanmmm21/Latent) |
 | **Wond** | White noise iOS App. | [Repo](https://github.com/juanmmm21/Wond) |
 | **TunnelVision** | On-device iOS network traffic analyzer and local firewall built on NetworkExtension. | [Repo](https://github.com/juanmmm21/TunnelVision) |
-| **PlantPulse** | DIY plant monitoring: ESP32 nodes publishing soil moisture and ambient readings to a serverless Supabase backend. In progress... | [Repo](https://github.com/juanmmm21/PlantPulse) |
 
 ---
 
@@ -21,6 +20,23 @@
 | App | Description | Repository |
 | :--- | :--- | :---: |
 | **claude-menubar-telemetry** | A native macOS menu bar app showing real Claude Pro/Max quota usage, read via Claude Code's own session, with a local log-based fallback. | [Repo](https://github.com/juanmmm21/claude-menubar-telemetry) |
+
+---
+
+## AI Projects
+
+| Project | Description | Repository |
+| :--- | :--- | :---: |
+| **local-llm-studio** | A native macOS studio for local LLMs with private file context and web search integration. | [Repo](https://github.com/juanmmm21/local-llm-studio) |
+| **the-autonomous-enclave** | A local multi-agent simulation where LLM-driven digital citizens perceive, reason, and trade in a synthetic economy under computational scarcity, observed and steered in real time via a pixel-art web dashboard. | [Repo](https://github.com/juanmmm21/the-autonomous-enclave) |
+
+---
+
+## Extra Projects
+
+| Project | Description | Repository |
+| :--- | :--- | :---: |
+| **PlantPulse** | DIY plant monitoring: ESP32 nodes publishing soil moisture and ambient readings to a serverless Supabase backend. | [Repo](https://github.com/juanmmm21/PlantPulse) |
 
 ---
 
@@ -118,15 +134,6 @@
 | Project | Description | Repository |
 | :--- | :--- | :---: |
 | **quant-terminal-web** | Web dashboard for monitoring bots, viewing live performance, and triggering emergency stops. | [Repo](https://github.com/juanmmm21/quant-terminal-web) |
-
----
-
-## AI Projects
-
-| Project | Description | Repository |
-| :--- | :--- | :---: |
-| **local-llm-studio** | A native macOS studio for local LLMs with private file context and web search integration. | [Repo](https://github.com/juanmmm21/local-llm-studio) |
-| **the-autonomous-enclave** | A local multi-agent simulation where LLM-driven digital citizens perceive, reason, and trade in a synthetic economy under computational scarcity, observed and steered in real time via a pixel-art web dashboard. | [Repo](https://github.com/juanmmm21/the-autonomous-enclave)
 
 ---
 
