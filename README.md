@@ -37,6 +37,7 @@
 | Project | Description | Repository |
 | :--- | :--- | :---: |
 | **PlantPulse** | DIY plant monitoring: ESP32 nodes publishing soil moisture and ambient readings to a serverless Supabase backend. | [Repo](https://github.com/juanmmm21/PlantPulse) |
+| **MoneyWatcher** | Private, offline-first personal finance dashboard: bank statement import, self-learning categorisation and configurable widgets. | [Repo](https://github.com/juanmmm21/MoneyWatcher) |
 
 ---
 
