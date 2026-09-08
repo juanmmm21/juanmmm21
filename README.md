@@ -38,6 +38,8 @@
 | :--- | :--- | :---: |
 | **PlantPulse** | DIY plant monitoring: ESP32 nodes publishing soil moisture and ambient readings to a serverless Supabase backend. | [Repo](https://github.com/juanmmm21/PlantPulse) |
 | **MoneyWatcher** | Private, offline-first personal finance dashboard: bank statement import, self-learning categorisation and configurable widgets. | [Repo](https://github.com/juanmmm21/MoneyWatcher) |
+| **GymBuddy** | Personal workout tracker: installable PWA + Telegram bot on a single Cloudflare Worker, with a 1300+ exercise GIF catalog, working-weight suggestions and progression tracking. | [Repo](https://github.com/juanmmm21/GymBuddy) |
+
 
 ---
 
