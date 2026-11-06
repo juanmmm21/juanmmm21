@@ -30,6 +30,7 @@
 | :--- | :--- | :---: |
 | **local-llm-studio** | A native macOS studio for local LLMs with private file context and web search integration. | [Repo](https://github.com/juanmmm21/local-llm-studio) |
 | **the-autonomous-enclave** | A local multi-agent simulation where LLM-driven digital citizens perceive, reason, and trade in a synthetic economy under computational scarcity, observed and steered in real time via a pixel-art web dashboard. | [Repo](https://github.com/juanmmm21/the-autonomous-enclave) |
+| **Palo** | Palo, a self-hosted Jarvis-style personal assistant across Telegram, a voice call and two computers. | [Repo](https://github.com/juanmmm21/Palo-AI) |
 
 ---
 
@@ -40,6 +41,7 @@
 | **PlantPulse** | DIY plant monitoring: ESP32 nodes publishing soil moisture and ambient readings to a serverless Supabase backend. | [Repo](https://github.com/juanmmm21/PlantPulse) |
 | **MoneyWatcher** | Private, offline-first personal finance dashboard: bank statement import, self-learning categorisation and configurable widgets. | [Repo](https://github.com/juanmmm21/MoneyWatcher) |
 | **GymBuddy** | Personal workout tracker: installable PWA + Telegram bot on a single Cloudflare Worker, with a 1300+ exercise GIF catalog, working-weight suggestions and progression tracking. | [Repo](https://github.com/juanmmm21/GymBuddy) |
+| **PodDeck** | AirPods battery and status in the Windows system tray. | [Repo](https://github.com/juanmmm21/PodDeck) |
 
 
 ---
